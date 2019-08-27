@@ -14,7 +14,6 @@
     <copyright>2019 VirusTotal</copyright>
     <licenseUrl>https://cdn.statically.io/gh/VirusTotal/vt-cli/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/VirusTotal/vt-cli</projectSourceUrl>
     <docsUrl>https://cdn.statically.io/gh/VirusTotal/vt-cli/6f0a12d8/README.md</docsUrl>
     <bugTrackerUrl>https://github.com/VirusTotal/vt-cli/issues</bugTrackerUrl>
     <tags>vt-cli antivirus virustotal cli tools</tags>
