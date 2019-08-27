@@ -17,9 +17,15 @@
     <projectSourceUrl>https://github.com/VirusTotal/vt-cli</projectSourceUrl>
     <docsUrl>https://cdn.statically.io/gh/VirusTotal/vt-cli/6f0a12d8/README.md</docsUrl>
     <bugTrackerUrl>https://github.com/VirusTotal/vt-cli/issues</bugTrackerUrl>
-    <tags>vt-cli SPACE_SEPARATED</tags>
-    <summary>__REPLACE__</summary>
-    <description>__REPLACE__MarkDown_Okay </description>
+    <tags>vt-cli antivirus virustotal cli tools</tags>
+    <summary>Welcome to the VirusTotal CLI, a tool designed for those who love both VirusTotal and command-line interfaces</summary>
+    <description>Welcome to the VirusTotal CLI, a tool designed for those who love both VirusTotal and command-line interfaces. With this tool you can do everything you'd normally do using the VirusTotal's web page, including:
+
+* Retrieve information about a file, URL, domain name, IP address, etc.
+* Search for files using VirusTotal Intelligence query syntax.
+* Download files.
+* Manage your Malware Hunting YARA rules.
+* Launch Retrohunt jobs and get their results.</description>
     <releaseNotes>https://github.com/VirusTotal/vt-cli/releases</releaseNotes>
   </metadata>
   <files>
