@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <!-- == PACKAGE SPECIFIC SECTION == -->
+    <id>vt-cli</id>
+    <version>0.6.1</version>
+    <packageSourceUrl>https://github.com/zverev-iv/choco-vt-cli</packageSourceUrl>
+    <owners>zverev-iv</owners>
+    <!-- == SOFTWARE SPECIFIC SECTION == -->
+    <title>vt-cli (Install)</title>
+    <authors>VirusTotal</authors>
+    <projectUrl>https://github.com/VirusTotal/vt-cli</projectUrl>
+    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/vt-cli.png</iconUrl>-->
+    <copyright>2019 VirusTotal</copyright>
+    <licenseUrl>https://cdn.statically.io/gh/VirusTotal/vt-cli/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/VirusTotal/vt-cli</projectSourceUrl>
+    <docsUrl>https://cdn.statically.io/gh/VirusTotal/vt-cli/6f0a12d8/README.md</docsUrl>
+    <bugTrackerUrl>https://github.com/VirusTotal/vt-cli/issues</bugTrackerUrl>
+    <tags>vt-cli SPACE_SEPARATED</tags>
+    <summary>__REPLACE__</summary>
+    <description>__REPLACE__MarkDown_Okay </description>
+    <releaseNotes>https://github.com/VirusTotal/vt-cli/releases</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
