@@ -10,7 +10,7 @@
     <title>vt-cli (Install)</title>
     <authors>VirusTotal</authors>
     <projectUrl>https://github.com/VirusTotal/vt-cli</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/vt-cli.png</iconUrl>-->
+    <iconUrl>https://cdn.statically.io/gh/zverev-iv/choco-vt-cli/b4d8bf3c/logo.png</iconUrl>
     <copyright>2019 VirusTotal</copyright>
     <licenseUrl>https://cdn.statically.io/gh/VirusTotal/vt-cli/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
