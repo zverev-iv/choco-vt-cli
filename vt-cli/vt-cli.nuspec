@@ -3,7 +3,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>vt-cli</id>
-    <version>0.7.0</version>
+    <version>0.8.0</version>
     <packageSourceUrl>https://github.com/zverev-iv/choco-vt-cli</packageSourceUrl>
     <owners>zverev-iv</owners>
     <!-- == SOFTWARE SPECIFIC SECTION == -->
