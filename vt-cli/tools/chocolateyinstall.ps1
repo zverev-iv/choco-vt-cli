@@ -9,9 +9,9 @@ $packageArgs = @{
   url           = $url
   url64bit      = $url64
   softwareName  = 'vt-cli*'
-  checksum      = 'C453A6AF6C86301FACF7FEECCC469DBC91901C17911F75E95197CE526650CE7B'
+  checksum      = 'dd87d500d563e50b2f113da3161ade07d72f5107ef317ca9ff52eb8141c8c0f5'
   checksumType  = 'sha256'
-  checksum64    = '2468803342F0E12853D2761D14AAFE2E9EBC086CBF1C7F9CC334F430BB1C4167'
+  checksum64    = '1f364e50494b230caba8e95eedd8f5a05242e2a14812fa7a2078bdf0ddea2cc1'
   checksumType64= 'sha256'
 }
 
