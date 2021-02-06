@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://github.com/VirusTotal/vt-cli/releases/download/0.8.0/Windows32.zip' # download url, HTTPS preferred
-$url64      = 'https://github.com/VirusTotal/vt-cli/releases/download/0.8.0/Windows64.zip' # 64bit URL here (HTTPS preferred) or remove - if installer contains both (very rare), use $url
+$url        = 'https://github.com/VirusTotal/vt-cli/releases/download/0.9.0/Windows32.zip'
+$url64      = 'https://github.com/VirusTotal/vt-cli/releases/download/0.9.0/Windows64.zip'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -9,9 +9,9 @@ $packageArgs = @{
   url           = $url
   url64bit      = $url64
   softwareName  = 'vt-cli*'
-  checksum      = 'dd87d500d563e50b2f113da3161ade07d72f5107ef317ca9ff52eb8141c8c0f5'
+  checksum      = '6C68DC29C9691243558DCF2644EE728827412D7C3058CEAD1C74BE3AF6C7DC7B'
   checksumType  = 'sha256'
-  checksum64    = '1f364e50494b230caba8e95eedd8f5a05242e2a14812fa7a2078bdf0ddea2cc1'
+  checksum64    = '8339B1DC9992B68D729705B8C1B098EA3FDF54E4A3DA70D5069D143A53DB68EF'
   checksumType64= 'sha256'
 }
 
